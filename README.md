@@ -18,9 +18,9 @@ Este proyecto es una API construida con **Node.js**, **Express** y **MySQL**, en
 
 backend/
 ├── controllers/
-│ └── userController.js
+│   └── userController.js
 ├── routes/
-│ └── userRoutes.js
+│   └── userRoutes.js
 ├── db.js
 ├── index.js
 └── package.json
@@ -42,4 +42,4 @@ backend/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/GianPool7/Api_Task_Node_And_Mysql.git
