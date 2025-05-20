@@ -16,6 +16,7 @@ Este proyecto es una API construida con **Node.js**, **Express** y **MySQL**, en
 
 ## 📁 Estructura del proyecto
 
+```
 backend/
 ├── controllers/
 │   └── userController.js
@@ -24,7 +25,7 @@ backend/
 ├── db.js
 ├── index.js
 └── package.json
-
+```
 
 ---
 
